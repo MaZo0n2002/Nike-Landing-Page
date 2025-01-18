@@ -24,12 +24,17 @@ This project was built while following a tutorial to learn and practice front-en
 ### Navigation Bar
 A sleek and responsive navigation bar with a logo, menu items, and icons for search, shopping cart, and mobile menu.
 
-### Hero Section
-![Hero Section](images/hero-section.png)
 
 ### Product Section
 A grid of Nike products with images, descriptions, and prices.
 
 ### Responsive Design
 Designed to be user-friendly on both desktop and mobile devices.
+
+## 🧑‍💻 How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MaZo0n2002/Nike-Landing-Page.git
+
 
